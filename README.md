@@ -13,7 +13,7 @@ cd teranga-blog
 npm install
 1.Lancer le serveur de développement :
 npm run dev
-Trois choses que j'ai apprises
+###Trois choses que j'ai apprises
 1.Navigation et partage d'état avec React Router : structurer les routes avec un layout (Outlet), gérer les paramètres d'URL (useParams), protéger une route et partager l'état des favoris entre les pages.
 
 2.Chargement de données et gestion des états : utiliser useEffect et fetch pour récupérer les données, gérer le chargement, les erreurs et les cas où une ressource n'existe pas.
